@@ -13,7 +13,7 @@ What does the cloud of the most frequently used words look like? Data source: Ka
 
 
 ---
-### Super Store Dashboard usin Tableau 
+### Super Store Dashboard using Tableau 
 [Data Vizualization: Sales by Category, Sales by year, Profits by year,
 Utilities Table,Cities by KPI  ](/pdf/sample_presentation.pdf)
 
