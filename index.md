@@ -10,11 +10,12 @@ Recommender System: Analyzing the customer's past purchase history and reviewsDa
 What does the cloud of the most frequently used words look like? Data source: Kaggle.com](/sample_page)
 
 <img src="images/sephora.png?raw=true"/>
-<img src="images/correlation%20matrix.pngraw=true"/>
+
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Super Store Dashboard 
+[Data Vizualization: Sales by Category, Sles by year, Profits by year, Utilities Table,Cities by KPI  ](/pdf/sample_presentation.pdf)
+<img src="images/Super%20Store%20data%20viz.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
