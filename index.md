@@ -9,7 +9,7 @@ Sentiment Analysis: Is the emotional tone of the review positive, negative, or n
 Recommender System: Analyzing the customer's past purchase history and reviews, suggest products that are likely to be of interest to them Data Visualization: What are the most popular brands and products? What is the distribution of prices? 
 Which products are closest to each other in ingredients? 
 What does the cloud of the most frequently used words look like? Data source: Kaggle.com](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sephora.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
