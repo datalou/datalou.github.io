@@ -10,6 +10,7 @@ Recommender System: Analyzing the customer's past purchase history and reviewsDa
 Which products are closest to each other in ingredients? 
 What does the cloud of the most frequently used words look like? Data source: Kaggle.com](/sample_page)
 <img src="images/sephora.png?raw=true"/>
+<img src="images/correlation%20matrix.pngraw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
