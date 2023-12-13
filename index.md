@@ -20,8 +20,9 @@ Utilities Table,Cities by KPI  ](/pdf/sample_presentation.pdf)
 <img src="images/Super%20Store%20data%20viz-fotor-20230814115447.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Marketing A/B Testing using Python
+[A/B Testing](https://colab.research.google.com/drive/1aqkn15sPhO5kT7ItcSFBlq4UTh5M_txD?usp=sharing//)
+<img src="images/What-is-AB-Testing.jpg?raw=true"/>
 
 ---
 
