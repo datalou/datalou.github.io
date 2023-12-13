@@ -1,20 +1,16 @@
 title: Lourdes Nuñez # your name (or website title) here
 logo: "images/1676382554967-fotor-202308141041.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-As a freelance data analyst and data scientist, I translate data into valuable and comprehensible insights. 
-My goal is to improve results, make the right decisions and save costs.
-I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques 
-to present the results. 
-I use SQL, R, Python, QlikView and Tableau for my data projects
-<br><br>
+   As a freelance data analyst and data scientist, I translate data into valuable and comprehensible insights. 
+   My goal is to improve results, make the right decisions and save costs.
+   I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques 
+   to present the results. 
+   I use SQL, R, Python, QlikView and Tableau for my data projects
+  <br><br>
   <a href="https://www.linkedin.com/in/lourdes-n-358153180/">View My LinkedIn Profile</a> 
   <a href="https://github.com/datalou">View My Github Profile</a> 
 
-  remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-  
-
-
-
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
