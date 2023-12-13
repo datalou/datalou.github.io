@@ -21,18 +21,17 @@ Utilities Table,Cities by KPI  ](/pdf/sample_presentation.pdf)
 
 ---
 ### Marketing A/B Testing using Python
-[A/B Testing](https://colab.research.google.com/drive/1aqkn15sPhO5kT7ItcSFBlq4UTh5M_txD?usp=sharing//)
+[A/B testing helps marketers observe how one version of a piece of marketing content performs alongside another](https://colab.research.google.com/drive/1aqkn15sPhO5kT7ItcSFBlq4UTh5M_txD?usp=sharing//)
+
 <img src="images/What-is-AB-Testing.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Sales Forecast: A Forecast helps every business make better business decisions. It helps in overall business planning, budgeting, and risk management. Sales forecasting allows companies to efficiently allocate resources for future growth and manage its cash flow.](https://colab.research.google.com/drive/1bJYydswAZ1MB52vKaXUa4sDhXC7ExDMe?usp=sharing)
+- [Exploratory Data Analysis of Retail Company](https://colab.research.google.com/drive/1T_59xsos_IPckokt8J9W99YDmnkFlMzg?usp=sharing)
+
 
 ---
 
