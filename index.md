@@ -7,7 +7,7 @@
 [Exploratory Data Analysis (EDA): Explore product categories, regular and discount prices, brand popularity, the impact of different characteristics on price, and ingredient trends 
 Sentiment Analysis: Is the emotional tone of the review positive, negative, or neutral? 
 Recommender System: Analyzing the customer's past purchase history and reviewsData Visualization: What are the most popular brands and products? What is the distribution of prices? 
-What does the cloud of the most frequently used words look like? Data source: Kaggle.com](/sample_page)
+What does the cloud of the most frequently used words look like? Data source: Kaggle.com](https://github.com/datalou/Sephora_DataAnalysis)
 
 <img src="images/sephora.png?raw=true"/>
 
