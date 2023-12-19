@@ -15,7 +15,7 @@ What does the cloud of the most frequently used words look like? Data source: Ka
 ---
 ### Super Store Dashboard using Tableau 
 [Data Vizualization: Sales by Category, Sales by year, Profits by year,
-Utilities Table,Cities by KPI  ](/pdf/sample_presentation.pdf)
+Utilities Table,Cities by KPI  ](https://public.tableau.com/app/profile/lourdes5020/viz/SuperStoreDataViz_16790919792110/Dashboard1)
 
 <img src="images/Super%20Store%20data%20viz-fotor-20230814115447.png?raw=true"/>
 
