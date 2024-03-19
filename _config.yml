@@ -10,8 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <br><br>
   <a href="https://www.linkedin.com/in/lourdes-n-358153180/">View My LinkedIn Profile</a>
+
   
-  <a href="https://github.com/datalou">View My Github Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
