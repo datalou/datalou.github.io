@@ -17,7 +17,7 @@ What does the cloud of the most frequently used words look like? Data source: Ka
 [Data Vizualization: Sales by Category, Sales by year, Profits by year,
 Utilities Table,Cities by KPI  ](https://lookerstudio.google.com/reporting/97a5e839-e2bd-4fb7-974f-fe29dbfc6468)
 
-<img src="images/Super%20Store%20data%20viz-fotor-20230814115447.png?raw=true"/>
+<img src="images/Semana%20de%20Datos%20Tribbo_%20Dashboard%20page%201.png?raw=true"/>
 
 ---
 ### Marketing A/B Testing using Python
